@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.loginform{
+    width: 100%;
+    height: 80px;
+    display: inline-flex;
+    margin: 0px;
+    background:rgb(64, 15, 156);
+}
+p{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: justify;
+    padding: 15px;
+    padding-left: 50px;
+}
+#btn{
+    background: rgb(10, 175, 10);
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 10px 10px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    border: 2px solid rgb(10, 175, 10);
+}
+#fill{
+    width: 95%;
+    height: 600px;
+    background:whitesmoke;
+    margin: 40px;
+}
+#fill p1{
+    font-size: 30px;
+    text-align:center;
+    display: inline-flex;
+    padding-left: 520px;
+    padding-top: 100px;
+    font-family: sans-serif;
+    
+}
+#fill .input{
+    align-items: center;
+    padding: 10px;
+    display:block;
+    margin-left: 500px;
+}
+.input{
+    margin: 10px;
+    width: 20%;
+    border: 2px solid rgb(231, 230, 236);
+    border-radius: 5px;
+}
+.input:hover{
+    border: 2px solid rgb(69, 58, 233)  
+}
+.btn1{
+    margin-left: 501px; 
+    height: 50px;
+    width: 21.5%;
+    border: 2px solid rgb(231, 230, 236);
+    border-radius: 7px;
+    color: white;
+    background: rgb(69, 58, 233);
+    font-size: 25px;
+}
+.btn2{
+    margin-left: 545px;
+    margin-top: 60px ;
+    width: 15%;
+    height: 9%;
+    border: 2px solid rgb(10, 175, 10);
+    background: rgb(10, 175, 10);
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+}
+ hr{
+    margin-left: 501px;
+    margin-top: 50px ;
+    width: 21%; 
+    background: rgb(161, 160, 163);
+}
+p2{
+    margin: 50px;
+    margin-top:100px;
+    color: blue;
+    padding: 10px;
+}
+  

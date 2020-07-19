@@ -1,0 +1,23 @@
+ <div class="left">
+   <div class="leftL"></div>
+   <div class="leftMain">
+   	<img src="s.jpg" width="100%" height="50%">A federal court; the highest body in the judicial branch. The Supreme Court is composed of a chief justice and eight associate justices,
+	 all of whom are appointed by the president and confirmed by the Senate. They serve on the Court as long as they choose, subject only to impeachment. Each state also has a supreme 
+	 court; these courts are all courts of appeals, primarily hearing cases that have already been tried. The federal Supreme Court (“the” Supreme Court) has the final word on interpretation
+	  of all laws and of the Constitution itself.
+	<h2>NOTES FOR SUPREME COURT</h2>
+Supreme Court decisions have a significant impact on public policy and are often extremely controversial. In interpreting the Constitution, the justices of the Supreme Court occasionally 
+have deduced legal doctrines that are not clearly stated (or stated at all) in the Constitution.For example, in the famous case of McCulloch versus Maryland (1819), Chief Justice 
+John Marshall advanced the opinion, accepted by the Court, that the Constitution implicitly gives the federal government the power to establish a national bank, even though such a 
+power is not explicitly granted by the Constitution. </div>
+   </div>
+   
+ <div class="Right">
+ <marquee direction="up" height="100%"><h2><font size="30" >Team Members:</font></h2></h2>Hi Guys,We Gorkhali's presenting you a Court case management software.The team members are given below:-<br> Ravi Dai<br>
+ 						 Anu Jaiswal<br>Pawan Gupta<br>Bikal Chapain<br>Manish jaiswal<br>---------------------------------------------------------------------------------------------------
+						 -------------------------------------------------------------------------------------------------------------------
+						 -------------------------------------------------------------------------------------------------------------------</marquee>
+ </div> 
+
+https://manish1522test.000webhostapp.com/
+0JC%-/u}Q*1%P%2k
